@@ -1,0 +1,11 @@
+#Ignore the bot authentication file #
+praw.ini
+
+#Ignore the username and database file
+botinfo.py
+
+#Ignore compiled python files
+*.pyc
+
+#Ignore vs code
+**/.vscode
